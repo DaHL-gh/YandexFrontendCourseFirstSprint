@@ -22,6 +22,15 @@
   background-color: #2f80ed;
 }
 
+.color_white {
+  color: #fff
+}
+
+.color_white-background {
+  background-color: #ffffff;
+}
+
+
 .color_black {
   color: #000
 }
