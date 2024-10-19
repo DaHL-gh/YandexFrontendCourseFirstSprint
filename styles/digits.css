@@ -1,0 +1,59 @@
+.digits {
+  align-items: center;
+}
+
+.section-title {
+  margin: 20px auto;
+  width: 60%;
+  
+  text-align: center;
+
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.section-subtitle {
+  margin: auto;
+  width: 60%;
+  
+  text-align: center;
+
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.table {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin: auto;
+
+  width: 1100px;
+}
+
+.table__cell {
+  display: block;
+
+  margin: auto;
+
+  margin-top: 60px;
+
+  width: 250px;
+}
+
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.table__text {
+  margin-top: 20px;
+
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: 400;
+}
+

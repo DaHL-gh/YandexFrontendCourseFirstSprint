@@ -1,6 +1,7 @@
 @import url(header.css);
 @import url(colors.css);
 @import url(description.css);
+@import url(digits.css);
 
 * {
   margin: 0;
